@@ -241,13 +241,13 @@ div.text-box {
 div.link-box {
     float: left;
     height: auto;
-    margin-left: 554px;
+    margin-left: 558px;
     margin-top: 46px;
-    clear: both;
+	margin-bottom: 50px;
+	clear: both;
     width: auto;
     padding-bottom: 0px;
-    margin-bottom: 50px;
-    min-width: 130px;
+	min-width: 130px;
 }
 
 a.link {
